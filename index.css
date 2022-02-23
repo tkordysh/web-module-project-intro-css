@@ -47,8 +47,16 @@ table {
 	border-spacing: 0;
 }
 
-nav a {
+.orange {
     background-color: #FF764E;
+}
+
+.blue {
+    background-color: #5ED3EB; 
+}
+
+.yellow {
+    background-color: #FFCD69;
 }
 
 h1 {
@@ -61,5 +69,25 @@ nav {
 
 p {
     font-family: 'Roboto Mono', monospace;
+}
+
+.abttext {
+    background-color: #DDB9A3;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.headimg {
+    border-radius: 50%;
+}
+
+nav {
+    border-radius: 10%;
 }
 
